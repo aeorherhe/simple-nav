@@ -1,0 +1,14 @@
+{
+  "name": "navbar-app",
+  "version": "1.0.0",
+  "description": "node-tutorials",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "aeo",
+  "license": "ISC"
+}
